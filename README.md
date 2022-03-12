@@ -2,6 +2,14 @@
 
 此书是[kubernetes-handbook](https://jimmysong.io/kubernetes-handbook/)的前传，本书中主要介绍docker1.13新特性和帮助大家了解docker集群的管理和使用。
 
+<div align="center">
+  <a href="https://jimmysong.io/docker-handbook/">
+    <img src="cover-thumbnail.jpg" title="Docker handbook" alt="Docker handbook">
+  </a>
+</div>
+
+## 如何阅读
+
 - GitHub地址：https://github.com/rootsongjc/docker-handbook
 
 - 在线访问地址：https://jimmysong.io/docker-handbook
